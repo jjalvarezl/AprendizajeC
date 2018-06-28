@@ -9,7 +9,6 @@
  * punteros inteligentes.
  */
 
-
 template <typename T>
 class ParamTypes
 {
